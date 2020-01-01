@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/UnixedIT/documentation-user/blob/13.0/crm/acquire_leads/media/convert01.png) and ![Image](media/convert01.png)
+[Link](url) and ![Image](media/convert01.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
